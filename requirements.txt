@@ -1,0 +1,12 @@
+# Core data manipulation
+pandas
+
+# Snowflake connector for Python
+snowflake-connector-python
+
+# For loading DataFrames to Snowflake
+# We use: from snowflake.connector.pandas_tools import write_pandas
+# Note: This comes bundled with snowflake-connector-python
+
+# Load environment variables from .env file
+python-dotenv
