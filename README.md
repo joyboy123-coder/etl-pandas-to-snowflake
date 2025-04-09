@@ -1,6 +1,7 @@
-# 🧹 ETL Project: Pandas to Snowflake ❄️
+# 🧹 ETL Project: Pandas to Snowflake❄️
 
-![ETL Thumbnail](./A_digital_graphic_design_image_represents_ETL_(Ext.png)
+![ETL Thumbnail](./images/A_digital_graphic_design_image_represents_ETL_(Ext.png))
+
 
 This project is all about building a full ETL (Extract, Transform, Load) pipeline using Python and Snowflake. It helps take messy raw data, clean it using pandas, and load it into a Snowflake table — all step-by-step with interactive user prompts 🧑‍💻⚙️❄️
 
